@@ -1,0 +1,100 @@
+        html{
+			font-family:"helvetica neue","Arial",sans-serif;
+			}
+		header{
+			height:100px;
+			background-color:#008b8b;
+			}
+		body{	
+			margin:0px;
+			}
+		#logoarea{
+			width:90%;
+			margin:auto;
+			}
+		.navi-col{
+			width:33%;
+			float:left;
+			padding:2px;
+		}
+		.menubar{
+			background-color:#2f4f4f;
+			height:53px;
+			font-size:1em;
+			padding-top:3px;
+			}
+		.menubar li{
+			list-style-type:none;
+			display:inline;
+			}
+        .menubar ul{
+            padding-left: 12px;
+            }
+		.link {
+			color:white;
+            font-family:sans-serif;
+            font-weight: 100;
+            letter-spacing: 0.2px;
+			text-decoration:none;
+            padding:13px 24.3px;
+            background-color:cadetblue;
+			}
+.link:hover{
+     background-color:lightblue;
+}
+
+ #covertext {
+     background:url(C:/Users/Mahesh/Desktop/html/htmlproject/images/baby.jpg);
+     background-repeat: no-repeat;
+     background-size:cover;
+     height:500px;
+     padding-top: 0px;
+     padding-left: 10px;
+}
+#covertext p{
+    padding-top: 375px;
+    padding-bottom: 0px;
+    margin: 0px;
+}
+#borderparah{
+    font-style: italic;
+    width:79%;
+    color: azure;
+    font-weight: 900;
+    border-left: 6px solid red;
+    padding-left: 5px;
+    color:black;
+    background-color: aliceblue;
+    opacity: 0.8;
+}
+#matter{
+    background-color:cornsilk;
+    padding-left: 10px;
+}
+.objective{
+    width:48%;
+    display: inline-block;
+}
+.fetalheading{
+    text-align: center;
+    font-size: 1.5em;
+}
+.types{
+    width:48%;
+    display: inline-block;
+}
+.imageoftypes{
+    width:48%;
+    display: inline-block;
+}
+#address{
+    background-image: url(images/footerimage.jpg);
+    background-position: center;
+    background-repeat:no-repeat;
+    background-size:cover;
+    filter: grayscale(100%);
+    color: black;
+    text-align: center;
+    margin: 0;
+    border: 0;
+}
